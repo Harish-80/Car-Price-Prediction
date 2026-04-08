@@ -1,4 +1,4 @@
-# Car-Price-Prediction Car Price Prediction using Machine Learning
+# Car-Price-Prediction using Machine Learning
 
 ## 📌 Project Overview
 
